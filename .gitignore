@@ -20,3 +20,9 @@ Thumbs.db
 .env
 .env.*
 !.env.example
+# --- Claude session notes (local only) ---
+.claude/
+
+*.log, logs
+*.local
+*.idea, *.suo, *.sw?
